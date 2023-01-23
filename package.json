@@ -1,0 +1,21 @@
+{
+  "name": "hyper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "homepage": "https://github.com/Sakai-Theme/hyper#readme",
+  "description": "Sakai theme for Hyper",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sakai-Theme/hyper.git"
+  },
+  "keywords": [
+    "hyperterm",
+    "hyper",
+    "hyper.app",
+    "hyper sakai",
+    "hyper theme",
+    "sakai-theme"
+  ],
+  "author": "Pablo Severino <pabloseverino40@gmail.com>",
+  "license": "MIT"
+}
