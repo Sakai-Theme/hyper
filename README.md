@@ -6,6 +6,12 @@
 <p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist.</p>
 
 <div align="center">
+  <a href="https://github.com/Sakai-Theme">
+    <img src="https://github.com/Sakai-Theme/hyper/blob/main/assets/emphasis.svg" />
+  </a>
+</div>
+
+<div align="center">
   <img src="assets/screenshot.png"/>
 </div>
 
